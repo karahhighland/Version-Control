@@ -3,5 +3,7 @@ class Main {
     System.out.println("Hello world!");
 
     System.out.print("HI");
+
+    int h = 5;
   }
 }
